@@ -1,0 +1,4 @@
+# runtime cache — holds a live session token, must never be committed
+src/.cache
+__pycache__/
+*.pyc
